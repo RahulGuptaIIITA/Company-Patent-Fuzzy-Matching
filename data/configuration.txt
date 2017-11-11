@@ -1,0 +1,14 @@
+{
+	
+	"noise_word_grammar": "Prof_Don_Noise_Words",
+	
+	"trie_word_frequency_threshold": 50000,
+	
+	"is_hard_prefix": 1,
+
+	"prefix_length": 3,
+
+	"probability_ranking_threshold": 0.7,
+
+	"num_patent_to_vx_filter": 300	
+}
