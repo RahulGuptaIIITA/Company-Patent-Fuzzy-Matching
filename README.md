@@ -1,4 +1,4 @@
-# RA_Patent_Mapping
+# Fuzzy Matching
 Fuzzy matching for Patent to company mapping
 
 
